@@ -1,0 +1,16 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "subscribe": "node subs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
